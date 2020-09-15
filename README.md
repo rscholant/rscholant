@@ -1,6 +1,10 @@
 <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
+<p align="left">
+  Olá, meu nome é Rafael sou <strong>Desenvolvedor Back-end</strong> e no momento estou trabalhando como <strong>analista desenvolvedor android</strong>.<br>
+</p>
+
 <!--
 **rscholant/rscholant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
