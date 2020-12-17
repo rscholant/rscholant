@@ -5,17 +5,21 @@
   Olá, meu nome é Rafael sou <strong>Desenvolvedor Back-end</strong> e no momento estou trabalhando como <strong>analista desenvolvedor android</strong>.<br>
 </p>
 
-<!--
-**rscholant/rscholant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  🦄 Skills: <strong>Node.js, React, React Native</strong>
+</p
+  
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Photoshop, Git and GitHub.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💌 Se você quer realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/rafael-pinto-scholant-718a3724/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-pinto-scholant-718a3724/" /></a>
+  
+</p> 
