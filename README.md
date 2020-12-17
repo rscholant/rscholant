@@ -2,15 +2,15 @@
 
 
 <p align="left">
-  Olá, meu nome é Rafael sou <strong>Desenvolvedor Back-end</strong> e no momento estou trabalhando como <strong>analista desenvolvedor android</strong>.<br>
+  Olá, meu nome é Rafael sou <strong>Desenvolvedor Back-end</strong> e no momento estou trabalhando como <strongAnalista desenvolvedor Android</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Node.js, React, React Native</strong>
+  🦄 Skills: <strong>Android, Delphi, Node.js, React, React Native</strong>
 </p
   
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Photoshop, Git and GitHub.</strong>
+  💼 Tools: <strong>Android Studio, Visual Studio Code, Photoshop, Git and GitHub.</strong>
 </p>
 
 <p align="left">
