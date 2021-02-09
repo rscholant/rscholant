@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Android, Delphi, Node.js, React, React Native</strong>
+  🦄 Habilidades: <strong>Android, Delphi, Node.js, React, React Native</strong>
 </p
   
 <p align="left">
-  💼 Tools: <strong>Android Studio, Visual Studio Code, Photoshop, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>Android Studio, Visual Studio Code, Photoshop, Git and GitHub.</strong>
 </p>
 
 <p align="left">
