@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  Olá, meu nome é Rafael sou <strong>Desenvolvedor Back-end</strong> e no momento estou trabalhando como <strong>Desenvolvedor Full Stack</strong>.<br>
+  Olá, meu nome é Rafael e no momento estou trabalhando como <strong>Desenvolvedor Full Stack</strong>.<br>
 </p>
 
 <p align="left">
