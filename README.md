@@ -23,3 +23,5 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-pinto-scholant-718a3724/" /></a>
   
 </p> 
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rscholant&show_icons=true&layout=compact&theme=dark)
