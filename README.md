@@ -28,3 +28,5 @@
 </p> 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rscholant&show_icons=true&layout=compact&theme=dark)
+
+![Snake animation](https://github.com/rscholant/rscholant/blob/master/github-user-contribution.svg)
