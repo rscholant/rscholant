@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Android, Delphi, Node.js, React, React Native, Java</strong>
+  🥋 Skills: <strong>Android, Delphi, Node.js, React, React Native, Java</strong>
 </p
   
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or chat), don't hesitate to send me a message: ⤵️
+  💬 If you want to carry out a project with me (or chat), don't hesitate to send me a message: ⤵️
 </p>
 
 <p align="left">
