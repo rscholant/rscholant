@@ -2,19 +2,19 @@
 
 
 <p align="left">
-  Olá, meu nome é Rafael e no momento estou trabalhando como <strong>Desenvolvedor Full Stack</strong>.<br>
+  Hello, I am Rafael, I have been working with development for over ten years, I have great experience with Delphi development that I started using in mid 2010 and from 2020 I started a new challenge in my career and now I work as an <strong>Full-stack developer</strong>. I have a fascination for new technologies, lately I have learned a lot about Node.js, React.js and React Native.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Android, Delphi, Node.js, React, React Native, Java</strong>
+  🦄 Skills: <strong>Android, Delphi, Node.js, React, React Native, Java</strong>
 </p
   
 <p align="left">
-  💼 Ferramentas: <strong>Android Studio, Visual Studio Code, Photoshop, Git e GitHub.</strong>
+  💼 Tools: <strong>Android Studio, Visual Studio Code, Photoshop, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Se você quer realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  💌 If you want to carry out a project with me (or chat), don't hesitate to send me a message: ⤵️
 </p>
 
 <p align="left">
@@ -29,4 +29,3 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rscholant&show_icons=true&layout=compact&theme=dark)
 
-![Snake animation](https://github.com/rscholant/rscholant/blob/master/github-user-contribution.svg)
